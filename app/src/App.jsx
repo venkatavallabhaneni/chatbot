@@ -5,7 +5,7 @@ import { MainContainer, ChatContainer, MessageList, Message, MessageInput, Typin
 
 function App() {
 
-  const API_KEY = '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';
+  const API_KEY ='123abc';
 
   const [typing, setTyping] = useState(false);
 
